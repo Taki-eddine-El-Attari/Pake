@@ -18,7 +18,8 @@
         "fullscreen": false,
         "maximized": false,
         "resizable": true,
-        "decorations": true
+        "decorations": true,
+        "url": "index.html"
       }
     ]
   },
