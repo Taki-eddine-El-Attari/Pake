@@ -12,16 +12,7 @@
     "security": {
       "headers": {},
       "csp": null
-    },
-    "windows": [
-      {
-        "fullscreen": false,
-        "maximized": false,
-        "resizable": true,
-        "decorations": true,
-        "url": "index.html"
-      }
-    ]
+    }
   },
   "build": {
     "frontendDist": "../dist"
