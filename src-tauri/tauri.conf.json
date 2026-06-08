@@ -12,7 +12,15 @@
     "security": {
       "headers": {},
       "csp": null
-    }
+    },
+    "windows": [
+      {
+        "fullscreen": false,
+        "maximized": false,
+        "resizable": true,
+        "decorations": true
+      }
+    ]
   },
   "build": {
     "frontendDist": "../dist"
